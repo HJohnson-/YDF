@@ -1,0 +1,2 @@
+# YDF
+Yugioh without Konami
